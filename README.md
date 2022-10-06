@@ -1,4 +1,4 @@
-# Hey, My name is Gabriel de Paula, learning web programming with 16 Years
+# Hey, My name is Gabriel, learning web programming with 16 Years
  
   ```js
   const me = {
